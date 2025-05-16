@@ -8,6 +8,7 @@ class Account
      String name = arg[0];
 	 
 	 System.out.println(name);
+	 System.out.println("Ashish");
    }
    
  }
