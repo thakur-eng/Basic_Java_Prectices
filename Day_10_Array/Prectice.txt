@@ -1,0 +1,14 @@
+public class Prectice  
+{
+public static void main (String args [])
+{
+  Mathod mc = new Mathod ();;
+  Mathod.num(12,43);
+ }
+ public int num(int a,int b)
+ {
+  int num=a+b;
+  System.out.println(num);
+  return num;
+ }
+ }
